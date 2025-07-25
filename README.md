@@ -24,7 +24,7 @@ Data Tools:      Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 Dashboards:      Looker Studio, Power BI
 DBs & APIs:      MySQL, REST APIs, Google Earth Engine
 Other Stuff:     Jupyter Notebook, Git, Excel, Leafmap, MapTiler
-
+```
 ---
 
 ## 🏆 Cool award-Winning Project
