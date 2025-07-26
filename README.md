@@ -11,7 +11,7 @@
 
 Hi! I’m Sam — an engineer who fell in love with data.  
 I speak Python more than C++ these days, and I’m currently diving into the data science world.  
-Currently focused on mastering advanced machine learning, model tuning, and building real-world data apps — all powered by curiosity (and coffee ☕).  
+Currently focused on mastering advanced machine learning, model tuning, and building real-world data apps — all powered by curiosity (and coffee).  
 Curious mind. Fast learner. Big believer in tech + purpose.
 
 ---
