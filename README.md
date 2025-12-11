@@ -3,7 +3,7 @@
 🎓 Mechatronics Engineer → Aspiring Data Scientist  
 📍 Proudly Mexican  
 📫 samanthalopezvizcarra@gmail.com  
-🌐 [LinkedIn](www.linkedin.com/in/samantha-lópez-vizcarra) | [GitHub](https://github.com/Samanthalopezvizcarra) | [Portafolio](https://samanthalopezvizcarra.github.io/)
+🌐 [LinkedIn](www.linkedin.com/in/samantha-lópez-vizcarra) | [GitHub](https://github.com/Samanthalopezvizcarra) | [Portfolio](https://samanthalopezvizcarra.github.io/)
 
 ---
 
